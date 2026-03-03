@@ -1,3 +1,4 @@
 ОКР ФИНСКИЙ ВАРИАНТ 4
 
-Ответ :B,enumerable
+Ответ :A, configurable
+
